@@ -17,7 +17,7 @@ bind = "unix:/var/run/gunicorn/jebif/ng-sock"
 pidfile = "/var/run/gunicorn/jebif/ng-pid"
 max_requests = 500
 umask = 0o007
-workers = 5
+workers = 2
 
 def when_ready( server ) :
 	from jebif.gunicorn import monitor
