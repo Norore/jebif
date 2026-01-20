@@ -1,3 +1,5 @@
+Archivé pour le souvenir.
+
 # Applications Django de l'association JeBiF
 
 L'association JeBiF met à jour ses applications Django. Dans ce document,
